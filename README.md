@@ -13,13 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Olá, eu sou a Beatriz!
+## Olá, eu sou a Beatriz! 😄
 
-## Estatísticas do GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beamclive&layout=compact)
+Contato: 
 
-## Estatísticas de Codificação do WakaTime
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/bmachado-oliveira/)
+[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.beatrizm.oli0102@gmail.com)
+[![social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/beamclive)
+
+Análise de perfil: 
+
+![luiza GitHub stats](https://github-readme-stats.vercel.app/api?username=beamclive&show_icons=true&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beamclive&layout=compact)](https://github.com/beamclive/github-readme-stats)
 
 
