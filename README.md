@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **beamclive/beamclive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Olá, eu sou a Beatriz!
+
+## Estatísticas do GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beamclive&layout=compact)
+
+## Estatísticas de Codificação do WakaTime
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
